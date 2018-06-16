@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/Slasher154/test-changelog/compare/v0.2.1...v0.3.0) (2018-06-16)
+
+
+### Bug Fixes
+
+* bug fixes from feature branch ([7c8821a](https://github.com/Slasher154/test-changelog/commit/7c8821a))
+
+
+### Features
+
+* new feature from feature branch ([88f83d5](https://github.com/Slasher154/test-changelog/commit/88f83d5))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/Slasher154/test-changelog/compare/v0.2.0...v0.2.1) (2018-06-16)
 
