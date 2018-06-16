@@ -11,6 +11,11 @@
     "cm": "git-cz",
     "release": "standard-version && git push --follow-tags origin master"
   },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^6.0.2",
