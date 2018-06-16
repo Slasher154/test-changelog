@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.0"></a>
+# [1.0.0](https://github.com/Slasher154/test-changelog/compare/v0.3.1...v1.0.0) (2018-06-16)
+
+
+### Bug Fixes
+
+* this is breaking changenpm run release ([6edbebb](https://github.com/Slasher154/test-changelog/commit/6edbebb))
+
+
+### BREAKING CHANGES
+
+* breaking change indeed
+
+
+
 <a name="0.3.1"></a>
 ## [0.3.1](https://github.com/Slasher154/test-changelog/compare/v0.3.0...v0.3.1) (2018-06-16)
 
