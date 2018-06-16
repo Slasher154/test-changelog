@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/Slasher154/test-changelog/compare/v0.1.0...v0.2.0) (2018-06-16)
+
+
+### Features
+
+* new red feature ([788ed56](https://github.com/Slasher154/test-changelog/commit/788ed56))
+
+
+
 <a name="0.1.0"></a>
 # [0.1.0](https://github.com/Slasher154/test-changelog/compare/v0.0.1...v0.1.0) (2018-06-16)
 
